@@ -17,6 +17,7 @@ For your writing:
 **CREATE YOUR PROJECT**
 Set the title, genres, and cover.
 Choose what it is: a book or a screenplay?
+
 <img width="718" height="567" alt="image" src="https://github.com/user-attachments/assets/1f5591d3-8e6d-456b-b899-6b3c157c09ac" />
 
 
