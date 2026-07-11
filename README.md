@@ -17,12 +17,18 @@ For your writing:
 **CREATE YOUR PROJECT**
 Set the title, genres, and cover.
 Choose what it is: a book or a screenplay?
+<img width="718" height="567" alt="image" src="https://github.com/user-attachments/assets/1f5591d3-8e6d-456b-b899-6b3c157c09ac" />
+
 
 **The text editor**
 Fully personalizable and customizable, Mira Writing's text editor is built for more than just the basics. With Focus Mode, the editor becomes a distraction-free, fully comfortable space designed for one thing only: letting your ideas flow. No worries, no clutter.
 It also offers a range of direct, precise tools for building your story. Create annotations, leave comments, and even generate new documents straight from your text. Add images, tag other documents for quick reference with @, and much more.
 
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/4b1b424c-3f9c-4511-b03e-4f9ab5d07cbb" />
+
+
 **1 — Create whatever you want, organize it however you want.**
+
 
 Through drawers and document management, build and organize your project exactly the way you envision it. In an intuitive interface, create and write as many documents as you like. A drawer for characters? Settings? Objects? Lore? Yes. All of it just a few clicks away, accessible anytime.
 There's no limit to how many drawers or documents you can create. Organize your documents into folders and subfolders, group documents from different drawers together, and much more. The only limit is your imagination.
@@ -41,6 +47,9 @@ Never forget what they said — or where they said it.
 Every single document in your project is accessible anytime through the Reference Menu, letting you read and retrieve whatever you need in seconds.
 Speaking of consistency...
 The Pensarium is your best friend. Can't forget something? Select the passage and save it as a memory. It's there whenever you need to check it, so nothing important ever slips through the cracks. Comments and bookmarks saved in the editor are searchable too. You can also jot down your own notes.
+<img width="384" height="212" alt="image" src="https://github.com/user-attachments/assets/b38ffab5-e90e-4ed9-a05c-349c779f7ee1" />
+
+
 
 **Build your story and your world**
 
