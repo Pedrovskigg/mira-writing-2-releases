@@ -101,7 +101,7 @@ The Cover Creator is a tool for designing covers for your project, simply and in
 People still judge books by their covers — so make it count!
 Note: Cover Creator is available as a download during Mira Writing installation.
 
-Mira Writing is currently available in Brazilian Portuguese. The English translation is expected to be completed by 09/2026.
+Mira Writing is currently available in PT-BR and EN-US. Other languages will come in the future.
 
 Try it, create, have fun, and let me know what you think.
 Made by one writer, for other writers.
