@@ -26,6 +26,8 @@ Fully personalizable and customizable, Mira Writing's text editor is built for m
 It also offers a range of direct, precise tools for building your story. Create annotations, leave comments, and even generate new documents straight from your text. Add images, tag other documents for quick reference with @, and much more.
 
 <img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/4b1b424c-3f9c-4511-b03e-4f9ab5d07cbb" />
+<img width="1914" height="1013" alt="image" src="https://github.com/user-attachments/assets/487f0021-1cb1-4970-bdc2-4f827045cdc1" />
+
 
 
 **1 — Create whatever you want, organize it however you want.**
@@ -37,12 +39,23 @@ The Manuscript feature is where your story lives. Every chapter and scene is sea
 And on top of that...
 Multiple Manuscripts: Is your project an entire 6-book saga? What if I told you that you could write that entire saga in the SAME project, with full access to everything you've already written? Need to find a detail mentioned in Chapter 3 of Book 2 while you're writing Book 6? No problem. Use the search tools or jump straight to it through the Reference Menu.
 
+<img width="424" height="230" alt="image" src="https://github.com/user-attachments/assets/7990e033-2120-4114-9191-a59e6ef608e2" />
+<img width="448" height="846" alt="image" src="https://github.com/user-attachments/assets/c4cb70b6-c348-4292-ba40-911c473de141" />
+<img width="1395" height="1033" alt="image" src="https://github.com/user-attachments/assets/c9bf6987-b17c-4e10-8a00-26745b824d2d" />
+
+
+
 **2 — Build, explore, and track your characters.**
 
 Create character drawers, add images, nicknames, define relationships between them, and describe who they are. The app takes care of the rest.
 Through an automated system, the app can detect your characters' presence across chapters and scenes, giving you participation graphs so you know exactly how much each one appears.
 Get instant access to everything your characters have ever said. The app automatically logs every line of dialogue, giving you fast, reliable recall whenever you need it.
 Never forget what they said — or where they said it.
+
+<img width="365" height="801" alt="image" src="https://github.com/user-attachments/assets/83ff21c1-a464-42ef-9902-a94d6f38252a" />
+<img width="375" height="675" alt="image" src="https://github.com/user-attachments/assets/89c4ccb8-16a0-4564-9224-a9caae907528" />
+
+
 
 **3 — Stay consistent with just a few clicks.**
 Every single document in your project is accessible anytime through the Reference Menu, letting you read and retrieve whatever you need in seconds.
@@ -88,6 +101,9 @@ Through the Word Counter, you can set writing goals, track the days you hit them
 Trade your earned stars for days off, or save them up to plan a vacation — why not? Taking a day off with earned stars doesn't break your progress streak. A rested mind is a more fertile one!
 Set your goals freely, too. Time-based? Word-based? Your call.
 Run writing sprints with Pomodoro and lock in your focus.
+<img width="308" height="369" alt="image" src="https://github.com/user-attachments/assets/f0955025-daca-4043-8917-f843c3def327" />
+<img width="462" height="315" alt="image" src="https://github.com/user-attachments/assets/818df607-34c7-4988-8fbd-429ce5976138" />
+
 
 **2 — Reminders**
 Save reminders for your project and get notified about anything left pending, so that fresh chapter gets revised before it goes cold!
@@ -98,20 +114,34 @@ Everything else you need.
 **Export:**
 Export your project freely. Docx, ODT, PDF, EPUB — all available, all just a few clicks away.
 Choose the documents you want to export and bring your text to life.
+<img width="485" height="654" alt="image" src="https://github.com/user-attachments/assets/782efc06-4e50-4eb3-b198-d63309110f23" />
+
 
 **Immersive Sound**
 Use the Immersive Sound tool to dive headfirst into your story, with a wide range of ambient sounds, soundtracks, and focus music to help you lose yourself in your writing.
 You can add your own custom sounds too.
+<img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/4193a570-2400-45a6-9047-57042657d46b" />
+
+
 
 **Make it yours!**
-Mira Writing comes with 144 built-in Themes by default. That's Themes for days — nobody's got anything to complain about. But on the off chance none of them speak to you, feel free to build your own custom Themes! Background images, editor color, panel color, text color — everything is customizable and within reach.
+Mira Writing comes with 144 built-in Themes by default. That's Themes for days — nobody's got anything to complain about. But on the off chance none of them speak to you, feel free to build your own custom Themes! Background images, editor color, panel color, text color — everything is customizable and within reach.v
+<img width="808" height="911" alt="image" src="https://github.com/user-attachments/assets/cf3751c6-3478-4ef5-a187-c134e256be1b" />
+<img width="792" height="904" alt="image" src="https://github.com/user-attachments/assets/e2255e45-a567-4c1c-a9d4-cdee6012a2af" />
+<img width="973" height="673" alt="image" src="https://github.com/user-attachments/assets/14ee1680-f884-4d51-9322-7f5627238754" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/fa1b9c17-f063-4c54-a5d5-685dfd1c31bc" />
+
+
 
 **The Cover Creator**
 The Cover Creator is a tool for designing covers for your project, simply and intuitively. With a gallery of copyright-free images, you get the creative freedom to design a cover that actually stands out.
 People still judge books by their covers — so make it count!
 Note: Cover Creator is available as a download during Mira Writing installation.
+<img width="867" height="747" alt="Captura de tela 2026-05-11 234901" src="https://github.com/user-attachments/assets/14748cdd-cdc6-47e9-8219-9fc404366438" />
 
-Mira Writing is currently available in PT-BR and EN-US. Other languages will come in the future.
+
+Mira Writing is currently available in PT-BR and EN-US. 
+Other languages will come in the future.
 
 Try it, create, have fun, and let me know what you think.
 Made by one writer, for other writers.
