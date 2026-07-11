@@ -1,4 +1,4 @@
-Welcome to Mira Writing! Your temple of creativity.
+**Welcome to Mira Writing! Your temple of creativity.**
 
 Mira Writing is a text editor and multi-document manager, built entirely for the craft of creative writing.
 
@@ -14,37 +14,40 @@ The only payment Mira Writing asks for is: write good stories.
 Now let's talk about what it offers — and why you need it.
 
 For your writing:
-CREATE YOUR PROJECT
+**CREATE YOUR PROJECT**
 Set the title, genres, and cover.
 Choose what it is: a book or a screenplay?
 
-The text editor
+**The text editor**
 Fully personalizable and customizable, Mira Writing's text editor is built for more than just the basics. With Focus Mode, the editor becomes a distraction-free, fully comfortable space designed for one thing only: letting your ideas flow. No worries, no clutter.
 It also offers a range of direct, precise tools for building your story. Create annotations, leave comments, and even generate new documents straight from your text. Add images, tag other documents for quick reference with @, and much more.
 
-1 — Create whatever you want, organize it however you want.
+**1 — Create whatever you want, organize it however you want.**
+
 Through drawers and document management, build and organize your project exactly the way you envision it. In an intuitive interface, create and write as many documents as you like. A drawer for characters? Settings? Objects? Lore? Yes. All of it just a few clicks away, accessible anytime.
 There's no limit to how many drawers or documents you can create. Organize your documents into folders and subfolders, group documents from different drawers together, and much more. The only limit is your imagination.
 The Manuscript feature is where your story lives. Every chapter and scene is searchable through the Reference Menu, so you always have exactly what you need, right when you need it.
 And on top of that...
 Multiple Manuscripts: Is your project an entire 6-book saga? What if I told you that you could write that entire saga in the SAME project, with full access to everything you've already written? Need to find a detail mentioned in Chapter 3 of Book 2 while you're writing Book 6? No problem. Use the search tools or jump straight to it through the Reference Menu.
 
-2 — Build, explore, and track your characters.
+**2 — Build, explore, and track your characters.**
+
 Create character drawers, add images, nicknames, define relationships between them, and describe who they are. The app takes care of the rest.
 Through an automated system, the app can detect your characters' presence across chapters and scenes, giving you participation graphs so you know exactly how much each one appears.
 Get instant access to everything your characters have ever said. The app automatically logs every line of dialogue, giving you fast, reliable recall whenever you need it.
 Never forget what they said — or where they said it.
 
-3 — Stay consistent with just a few clicks.
+**3 — Stay consistent with just a few clicks.**
 Every single document in your project is accessible anytime through the Reference Menu, letting you read and retrieve whatever you need in seconds.
 Speaking of consistency...
 The Pensarium is your best friend. Can't forget something? Select the passage and save it as a memory. It's there whenever you need to check it, so nothing important ever slips through the cracks. Comments and bookmarks saved in the editor are searchable too. You can also jot down your own notes.
 
-Build your story and your world
+**Build your story and your world**
+
 Mira Writing comes packed with planning tools designed so that you, the architect, can plan deeply and with focus before writing a single line.
 Take a look!
 
-1 — The Board
+**1 — The Board**
 A fan favorite from the classic version of Mira Writing, back and better than ever.
 The Board is a planning tool built entirely around structuring plots, storylines, acts, arcs — anything you want, and trust us, it fits a lot.
 Create posts, cards, and comments, leave notes on them, connect them to one another. Add images, symbols, titles. Will your board be organized, or beautifully chaotic? You decide.
@@ -52,48 +55,48 @@ Everything you build on the Board — every card, planning area, comment — can
 
 <img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/b075fe75-d4c1-409a-9179-3f6db8b69ef9" />
 
-2 — The Builder
+**2 — The Builder**
 Still in beta, but already showing serious promise. The Builder is a tool focused on creating systems and worldbuilding. Craft religions, magic systems, political structures, technologies — whatever you need. See the strengths and weaknesses of your systems and turn them to your advantage, building something unique and memorable.
 Define rules and sections for your systems, keeping your story consistent with everything that already exists.
 
-3 — Glossary
+**3 — Glossary**
 Invented a word? Save it in the Glossary, with its definition. The Glossary exports along with your project down the line and can be looked up anytime.
 
-4 — Timeline
+**4 — Timeline**
 Mira Writing's Timeline is still in beta, but it comes with a bold ambition: to be the best timeline tool this niche of software has ever seen.
 Everything your characters do is automatically logged on a timeline, fully editable afterward. Set when chapters take place, create flashback lines, connect timelines to one another, and build a chronological system for everything happening in your story.
 Create as many timelines and events as you want, using markers to keep everything in the order you need.
 Watch your project's past and present unfold in real time — while you plan the future.
 The Timeline is still in beta, but it's already proving to be one of the most promising tools in the whole program.
 
-Manage your writing
+**Manage your writing**
 The author doesn't live on creativity alone — discipline matters too.
 Mira Writing comes with tools to keep your writing as sharp and disciplined as it can be.
 
-1 — Track your progress.
+**1 — Track your progress.**
 Through the Word Counter, you can set writing goals, track the days you hit them, and get complete stats on your writing habits. Want to know your average writing time per session? Your all-time word record in a single day? How many days total you've hit your goal? It can tell you everything.
 Trade your earned stars for days off, or save them up to plan a vacation — why not? Taking a day off with earned stars doesn't break your progress streak. A rested mind is a more fertile one!
 Set your goals freely, too. Time-based? Word-based? Your call.
 Run writing sprints with Pomodoro and lock in your focus.
 
-2 — Reminders
+**2 — Reminders**
 Save reminders for your project and get notified about anything left pending, so that fresh chapter gets revised before it goes cold!
 
-ADDITIONAL FEATURES
+**ADDITIONAL FEATURES**
 Everything else you need.
 
-Export:
+**Export:**
 Export your project freely. Docx, ODT, PDF, EPUB — all available, all just a few clicks away.
 Choose the documents you want to export and bring your text to life.
 
-Immersive Sound
+**Immersive Sound**
 Use the Immersive Sound tool to dive headfirst into your story, with a wide range of ambient sounds, soundtracks, and focus music to help you lose yourself in your writing.
 You can add your own custom sounds too.
 
-Make it yours!
+**Make it yours!**
 Mira Writing comes with 144 built-in Themes by default. That's Themes for days — nobody's got anything to complain about. But on the off chance none of them speak to you, feel free to build your own custom Themes! Background images, editor color, panel color, text color — everything is customizable and within reach.
 
-The Cover Creator
+**The Cover Creator**
 The Cover Creator is a tool for designing covers for your project, simply and intuitively. With a gallery of copyright-free images, you get the creative freedom to design a cover that actually stands out.
 People still judge books by their covers — so make it count!
 Note: Cover Creator is available as a download during Mira Writing installation.
