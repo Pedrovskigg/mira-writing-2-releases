@@ -158,9 +158,15 @@ Note: Cover Creator is available as a download during Mira Writing installation.
 Mira Writing is currently available in PT-BR and EN-US. 
 Other languages will come in the future.
 
+Mira's Writing source code can be found in this repo: https://github.com/Pedrovskigg/mira-writing-2
+
 
 Try it, create, have fun, and let me know what you think.
 Made by one writer, for other writers.
 
 Sincerely,
 — P.H. Lobato, Guardian of the Lands of Mira
+
+
+
+
