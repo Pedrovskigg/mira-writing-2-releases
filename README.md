@@ -82,6 +82,9 @@ Everything you build on the Board — every card, planning area, comment — can
 Still in beta, but already showing serious promise. The Builder is a tool focused on creating systems and worldbuilding. Craft religions, magic systems, political structures, technologies — whatever you need. See the strengths and weaknesses of your systems and turn them to your advantage, building something unique and memorable.
 Define rules and sections for your systems, keeping your story consistent with everything that already exists.
 
+<img width="256" height="809" alt="image" src="https://github.com/user-attachments/assets/2e8bee99-2b74-43ae-807b-7a06eb64e065" />
+
+
 **3 — Glossary**
 Invented a word? Save it in the Glossary, with its definition. The Glossary exports along with your project down the line and can be looked up anytime.
 
@@ -92,6 +95,10 @@ Create as many timelines and events as you want, using markers to keep everythin
 Watch your project's past and present unfold in real time — while you plan the future.
 The Timeline is still in beta, but it's already proving to be one of the most promising tools in the whole program.
 
+<img width="1103" height="664" alt="image" src="https://github.com/user-attachments/assets/e83f88df-213c-4dd7-9624-c9bf4f857edc" />
+<img width="1349" height="825" alt="image" src="https://github.com/user-attachments/assets/53bcecb2-d03c-41df-aa22-bd9947c587ac" />
+
+
 **Manage your writing**
 The author doesn't live on creativity alone — discipline matters too.
 Mira Writing comes with tools to keep your writing as sharp and disciplined as it can be.
@@ -101,6 +108,7 @@ Through the Word Counter, you can set writing goals, track the days you hit them
 Trade your earned stars for days off, or save them up to plan a vacation — why not? Taking a day off with earned stars doesn't break your progress streak. A rested mind is a more fertile one!
 Set your goals freely, too. Time-based? Word-based? Your call.
 Run writing sprints with Pomodoro and lock in your focus.
+
 <img width="308" height="369" alt="image" src="https://github.com/user-attachments/assets/f0955025-daca-4043-8917-f843c3def327" />
 <img width="462" height="315" alt="image" src="https://github.com/user-attachments/assets/818df607-34c7-4988-8fbd-429ce5976138" />
 
