@@ -30,6 +30,7 @@ It also offers a range of direct, precise tools for building your story. Create 
 
 
 
+
 **1 — Create whatever you want, organize it however you want.**
 
 
@@ -133,7 +134,9 @@ You can add your own custom sounds too.
 
 
 **Make it yours!**
-Mira Writing comes with 144 built-in Themes by default. That's Themes for days — nobody's got anything to complain about. But on the off chance none of them speak to you, feel free to build your own custom Themes! Background images, editor color, panel color, text color — everything is customizable and within reach.v
+Mira Writing comes with 144 built-in Themes by default. That's Themes for days — nobody's got anything to complain about. But on the off chance none of them speak to you, feel free to build your own custom Themes! Background images, editor color, panel color, text color — everything is customizable and within reach.
+
+
 <img width="808" height="911" alt="image" src="https://github.com/user-attachments/assets/cf3751c6-3478-4ef5-a187-c134e256be1b" />
 <img width="792" height="904" alt="image" src="https://github.com/user-attachments/assets/e2255e45-a567-4c1c-a9d4-cdee6012a2af" />
 <img width="973" height="673" alt="image" src="https://github.com/user-attachments/assets/14ee1680-f884-4d51-9322-7f5627238754" />
@@ -145,11 +148,14 @@ Mira Writing comes with 144 built-in Themes by default. That's Themes for days �
 The Cover Creator is a tool for designing covers for your project, simply and intuitively. With a gallery of copyright-free images, you get the creative freedom to design a cover that actually stands out.
 People still judge books by their covers — so make it count!
 Note: Cover Creator is available as a download during Mira Writing installation.
+
+
 <img width="867" height="747" alt="Captura de tela 2026-05-11 234901" src="https://github.com/user-attachments/assets/14748cdd-cdc6-47e9-8219-9fc404366438" />
 
 
 Mira Writing is currently available in PT-BR and EN-US. 
 Other languages will come in the future.
+
 
 Try it, create, have fun, and let me know what you think.
 Made by one writer, for other writers.
