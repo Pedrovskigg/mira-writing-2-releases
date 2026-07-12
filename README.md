@@ -123,12 +123,14 @@ Everything else you need.
 **Export:**
 Export your project freely. Docx, ODT, PDF, EPUB — all available, all just a few clicks away.
 Choose the documents you want to export and bring your text to life.
+
 <img width="485" height="654" alt="image" src="https://github.com/user-attachments/assets/782efc06-4e50-4eb3-b198-d63309110f23" />
 
 
 **Immersive Sound**
 Use the Immersive Sound tool to dive headfirst into your story, with a wide range of ambient sounds, soundtracks, and focus music to help you lose yourself in your writing.
 You can add your own custom sounds too.
+
 <img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/4193a570-2400-45a6-9047-57042657d46b" />
 
 
